@@ -1,8 +1,8 @@
 This project was conducted during my studies, you will find below is the abstract in English and French. 
 
-- Scripts : contains experimental tests & correlation plot scripts 
-- Dataset : dataset creation script with no DB due to size but the code to recreate it
-- Memoire in english and french in pdf refer to the french document if unvcertain as the english one is Machine Translated
+- Scripts : contains experimental tests & correlation plot scripts.
+- Dataset : dataset creation script with no DB due to size but the code to recreate it.
+- Memoire in english and french in pdf refer to the french document if unvcertain as the english one is machine translated.
 
 --- 
 
